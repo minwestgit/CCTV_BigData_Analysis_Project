@@ -20,7 +20,7 @@ CCTV 데이터 중 동선, 구역, 물품, 회원 데이터를 분석
 → 성별, 날짜별 데이터 분석 가능
 
 #### - 동선
-<img width="819" alt="스크린샷 2021-08-06 오후 4 37 29" src="https://user-images.githubusercontent.com/70561950/128474922-123d3718-6919-4ee6-82d2-3df89d31342d.png">
+<img width="819" alt="스크린샷 2021-08-06 오후 4 37 29" src="https://user-images.githubusercontent.com/70561950/149142352-e99daf6c-9e58-4bf7-b616-1e324292ddfc.png">
 
 #### - 물품
 <img width="639" alt="스크린샷 2021-08-06 오후 4 37 47" src="https://user-images.githubusercontent.com/70561950/128474934-105cdad1-d29d-4683-b2f3-fa1de4449b13.png">
