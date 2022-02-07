@@ -1,4 +1,5 @@
 # CCTV BigData Analysis Project with Apriori Algorithm
+### 2018.03 ~ 2018.08
 대표적인 연관 규칙 분석 알고리즘인 Apriori를 활용한 CCTV 데이터 분석 시스템 <br>
 CCTV 데이터 중 동선, 구역, 물품, 회원 데이터를 분석
 
